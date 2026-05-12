@@ -159,3 +159,7 @@ cython_debug/
 *.tmp
 logs/
 temp/
+
+# WooCommerce Images
+Images for woocommerce/*
+!Images for woocommerce/.gitkeep
